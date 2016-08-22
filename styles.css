@@ -1,3 +1,9 @@
 h1{
   color: pink;
 }
+p{
+  color: blue;
+  font-style: italic;
+  text-decoration: underline;
+  font-size: 30px;
+}
